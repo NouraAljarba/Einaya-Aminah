@@ -48,7 +48,7 @@ Recognizing the importance of the ingredients in hair products and their potenti
 ## ⚙️ Screenshots
 
 <p align="center">
-  <img src="https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/1ac51b5c-bc5a-4461-bad1-5554697f2a0b" alt="App Screenshot" width="300">
+  <img src="https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/1ac51b5c-bc5a-4461-bad1-5554697f2a0b" alt="App Screenshot" width="500">
 </p>
 
 ---
