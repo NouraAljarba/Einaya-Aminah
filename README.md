@@ -46,7 +46,7 @@ Recognizing the importance of the ingredients in hair products and their potenti
 ## 🖥️ Software Environment
 
 <p align="center">
-  <img src="https://github.com/LemonLabours/EinayaAminah/assets/108701880/e87121fb-beb2-47b5-86fe-544ad2845bf1" alt="Software Environment" width="400">
+  <img src="https://github.com/LemonLabours/EinayaAminah/assets/108701880/e87121fb-beb2-47b5-86fe-544ad2845bf1" alt="Software Environment" width="401">
 </p>
 
 
