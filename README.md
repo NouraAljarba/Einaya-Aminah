@@ -35,7 +35,7 @@ Recognizing the importance of the ingredients in hair products and their potenti
 
 - [Video 1](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/32dee9bf-1661-4613-85ba-370573a007b0)
 - [Video 2](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/c89b54ab-e672-439f-b2cc-d69ac414a296)
-- [Video 3](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/72d53bac-d81e-4805-bd21-720b3ade7cf6)
+- [Video 3](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/14d42d20-7f7f-4204-b4b3-54a4877caf1d)
 - [Video 4](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/7cd711ba-0dd1-42de-b312-80c9f773f389)
 - [Video 5](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/310b3e92-4b90-4387-9caf-8d0f7c2d2980)
 
