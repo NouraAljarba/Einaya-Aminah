@@ -33,11 +33,12 @@ Recognizing the importance of the ingredients in hair products and their potenti
 
 ## 🎥 Demo Videos
 
-- [Video 1](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/32dee9bf-1661-4613-85ba-370573a007b0)
-- [Video 2](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/c89b54ab-e672-439f-b2cc-d69ac414a296)
-- [Video 3](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/14d42d20-7f7f-4204-b4b3-54a4877caf1d)
-- [Video 4](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/7cd711ba-0dd1-42de-b312-80c9f773f389)
-- [Video 5](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/310b3e92-4b90-4387-9caf-8d0f7c2d2980)
+- [OnBoarding](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/32dee9bf-1661-4613-85ba-370573a007b0)
+- [Preference](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/c89b54ab-e672-439f-b2cc-d69ac414a296)
+- [GalleryScan](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/14d42d20-7f7f-4204-b4b3-54a4877caf1d)
+- [CameraScan](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/04c2ba6f-59a4-41e4-86c0-53b8feebf959)
+- [AskAi](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/7cd711ba-0dd1-42de-b312-80c9f773f389)
+- [Settings](https://github.com/LemonLabours/Einaya-Aminah/assets/101458752/310b3e92-4b90-4387-9caf-8d0f7c2d2980)
 
 
 
