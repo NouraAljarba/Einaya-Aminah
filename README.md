@@ -69,4 +69,6 @@ Recognizing the importance of the ingredients in hair products and their potenti
 - [Nawaf Alasam](https://github.com/LostGhost0)
 
 <p align="center">
-  <img src="https://github.com/NouraAljarba/EinayaAminah/assets/108701880/33a37ffa-7d
+  <img width="200" alt="Team Logo" src="https://github.com/NouraAljarba/EinayaAminah/assets/108701880/33a37ffa-7d33-4f1c-9a28-b5d8cd248fe7">
+</p>
+
