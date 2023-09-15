@@ -8,7 +8,6 @@
 
 Empower your choices with our ingredient-scanning app. Instantly identify harmful components in products and tailor your preferences to find products that align with your values.
 
----
 
 ## 🔍 Description
 
